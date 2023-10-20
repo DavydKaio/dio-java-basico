@@ -7,15 +7,15 @@ public class Operadores {
 
         numeroUm = - numeroUm;
 
-        System.out.println(numero);
+        System.out.println(numeroUm);
 
         numeroUm = numeroUm * -1;
 
-        System.out.println(numero);
+        System.out.println(numeroUm);
 
-        System.out.println(numero--);
+        System.out.println(numeroUm--);
 
-        System.out.println(numero);
+        System.out.println(numeroUm);
 
         boolean variavel = true;
         variavel = !variavel;
